@@ -1,0 +1,4 @@
+id,condition,set,minutes,n_usable,n_marginal,n_artifact,n_railed,gate,file
+baseline_s3,baseline,1,40.4,10,0,1,5,PASS,BrainFlow-RAW_2026-10-20_12-23-57-SoniBaselineSession3_0.csv
+baseline_s4,baseline,1,37.8,10,4,2,0,PASS,BrainFlow-RAW_2026-10-22_15-24-44-SoniBaselineSession4_0.csv
+distract_set2,distracted,2,35.9,11,2,3,0,PASS,BrainFlow-RAW_2026-10-25_14-23-26-SoniSet2_0.csv
