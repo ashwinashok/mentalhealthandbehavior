@@ -1,4 +1,0 @@
-id,condition,set,electrodes,task,minutes,n_segments,n_usable_ch,usable,n_1,n_11,n_12,n_passive_bouts,n_active_bouts,file
-baseline_s3,baseline,1,Cyton+Daisy dry,no-text baseline (same headset),40.4,5,10,"C3,C4,P8,F7,F3,F4,T7,T8,P3,P4",0,0,0,0,0,BrainFlow-RAW_2026-10-20_12-23-57-SoniBaselineSession3_0.csv
-baseline_s4,baseline,1,Cyton+Daisy dry,no-text baseline (same headset),37.8,6,10,"Fp1,C3,C4,F7,F3,F4,T7,T8,P3,P4",0,0,0,0,0,BrainFlow-RAW_2026-10-22_15-24-44-SoniBaselineSession4_0.csv
-distract_set2,distracted,2,Cyton+Daisy dry,reading a paper + text and reply,35.9,3,11,"C3,C4,P8,F7,F8,F3,F4,T7,T8,P3,P4",11,12,12,11,12,BrainFlow-RAW_2026-10-25_14-23-26-SoniSet2_0.csv
