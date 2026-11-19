@@ -1,0 +1,11 @@
+image,Did you see a boat in the image?,Was the color of the sky pink?,Was there a person visible?,Were there any animals?,Was the image taken indoors?,Was there water in the image?,Did you see any text or writing?,Were there more than 3 objects?,Was the dominant color blue?,Was there a vehicle visible?,Did you see any trees?,Was there a building in the image?,Was the scene at night?,Did you see any food items?,Were there any clouds visible?,Was there a road or path?,Did you see any flowers?,Was there a mountain visible?,Were there any shadows?,Was the image symmetrical?
+Image1.png,0,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0
+Image2.jpeg,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0
+Image3.jpeg,1,0,1,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0
+Image4.jpeg,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0
+Image5.png,0,0,1,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,1
+Image6.jpeg,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+Image7.jpeg,0,1,1,0,0,0,1,1,0,0,1,0,0,1,1,0,1,0,0,0
+Image8.jpeg,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0
+Image9.png,1,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1
+Image10.jpeg,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,1,0,0,1,0
