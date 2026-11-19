@@ -1,0 +1,48 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+**/.DS_Store
+*.numbers
+.vscode/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.dist/
+
+# Office lock files
+~$*
+
+# Participant data and analysis outputs — never commit
+*.csv
+!experiments/Level3/questions_answers.csv
+*.xdf
+*.xlsx
+*.xml
+*.bak
+*.bak_*
+*.txt
+!requirements.txt
+*.png
+!experiments/Level3/Pictures/**
+analysis/outputs/
+analysis/Openbci_Subject00/
+experiments/**/Results_CSV/
+experiments/**/Results_xdf/
+GoNoGoTests/
+experiments/_local_data/
+
+# Docs / paper / slides — README and the two setup tutorials are tracked
+*.tex
+*.pdf
+*.docx
+!Experiment_Setup_Instructions.docx
+*.pptx
+*.html
+*.md
+!README.md
+!Muse_Setup.md
+!OpenBCI_Setup.md
